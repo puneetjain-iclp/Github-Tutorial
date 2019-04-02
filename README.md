@@ -1,3 +1,3 @@
 # Github-Tutorial
 
-This is the  Repository for Tutorial conducted at 
+This is the  Repository for Tutorial conducted at Collinson
