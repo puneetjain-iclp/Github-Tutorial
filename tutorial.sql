@@ -1,2 +1,9 @@
--- Select rows from a Table or View 'TableOrViewName' in schema 'SchemaName'
-SELECT * FROM Collinson.TableName;
+SELECT 
+  ColumnA,
+  ColumnB,
+  ColumnC
+from 
+  Analytics_team.Assignment
+WHERE
+  Condition1 = Something
+  Condition2 = Something
