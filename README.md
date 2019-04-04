@@ -2,7 +2,7 @@
 
 This is the  Repository for Tutorial conducted at Collinson for github.
 
-Following are the ]steps for Assignment.
+Following are the steps for Assignment.
 
 1.) Clone this Github repository 
 2.) Create your branch with the  your name 
