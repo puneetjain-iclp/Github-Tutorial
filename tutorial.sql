@@ -3,7 +3,7 @@ SELECT
   ColumnB,
   ColumnC
 from 
-  Analytics_team.Assignment
+  Analytics_team.AssignmentDonebyBT
 WHERE
-  Condition1 = Something
-  Condition2 = Something
+  Condition1 = IDidIt 
+  Condition2 = cantdoitanymore
