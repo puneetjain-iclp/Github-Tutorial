@@ -3,7 +3,7 @@ SELECT
   ColumnB,
   ColumnC
 from 
-  Analytics_team.Assignment
+  Analytics_team.Assignment_GP
 WHERE
-  Condition1 = Something
-  Condition2 = Something
+  Country = 'India'
+ and State = 'Maharashtra'
