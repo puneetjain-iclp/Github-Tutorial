@@ -7,4 +7,4 @@ from
 WHERE
   Condition1 = Something
   Condition2 = Something
-and name = 'Utkarsh' - Added the SQL code
+and name = 'Utkarsh' - Added the SQL code 
