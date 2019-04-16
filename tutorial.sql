@@ -1,9 +1,8 @@
 SELECT 
-  ColumnA,
-  ColumnB,
-  ColumnC
+Emp_no,Emp_Dept,Emp_Sal
 from 
-  Analytics_team.Assignment
+  Employee
 WHERE
-  Condition1 = Something
-  Condition2 = Something
+  Emp_no = 111
+ and Emp_Dept = 15
+ and Emp_Sal>=50000
