@@ -6,4 +6,4 @@ from
   Analytics_team.Assignment
 WHERE
   Condition1 = Something
-  Condition2 = Something
+  And Condition2 = Something
