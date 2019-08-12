@@ -9,3 +9,4 @@ WHERE
   Condition2 = Something
 group by ColumnB
 order by ColumnA
+123
