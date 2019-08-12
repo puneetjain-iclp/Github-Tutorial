@@ -8,5 +8,4 @@ WHERE
   Condition1 = Something
   Condition2 = Something
 group by ColumnB
-order by ColumnA
-123
+order by ColumnA---aa
