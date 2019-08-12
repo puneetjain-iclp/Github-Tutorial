@@ -7,3 +7,5 @@ from
 WHERE
   Condition1 = Something
   Condition2 = Something
+group by ColumnB
+order by ColumnA
